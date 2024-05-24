@@ -1,1 +1,2 @@
 # Lab8-Starter
+Graceful degredation is focusing on performance and resliance first and service workers can provide that to web apps. Service workers will provide resilience of the web app when the user loses internet connection. 
